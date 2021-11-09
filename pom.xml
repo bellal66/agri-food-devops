@@ -9,16 +9,8 @@
   <artifactId>javadoc</artifactId>
   <version>1.6</version>
   <packaging>hpi</packaging>
-  <name>Javadoc Plugin</name>
-
-  <url>https://github.com/bellal66/agri-food-devops.git</url>
-
-  <scm>
-    <connection>scm:git:git://github.com/bellal66/agri-food-devops.git</connection>
-    <developerConnection>scm:git:git@github.com:bellal66/agri-food-devops.git</developerConnection>
-    <tag>javadoc-1.6</tag>
-  </scm>
-
+  <name>agri-food-devops Maven Webapp</name>
+  <url>http://maven.apache.org</url>
   <dependencies>
     <dependency>
       <groupId>org.jenkins-ci</groupId>
