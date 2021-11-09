@@ -3,7 +3,7 @@
   <groupId>org.jenkins-ci.plugins</groupId>
   <artifactId>php</artifactId>
   <version>1.1-SNAPSHOT</version>
-  <packaging>hpi</packaging>
+  <packaging>pom</packaging>
 
   <dependencies>
       <dependency>
