@@ -123,7 +123,6 @@
 
 <?php include('footer.php') ?>
 <script type="text/javascript">
-alert('okk');
 $( "select" ).change(function () {
     var cropId = "";
     var cropName ="";
